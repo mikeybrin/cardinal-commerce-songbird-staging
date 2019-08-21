@@ -1,0 +1,34 @@
+{
+  "name": "cardinal-commerce-songbird-staging",
+  "version": "1.0.4",
+  "description": "A mirror for cardinal commerce's songbird staging library",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeybrin/cardinal-commerce-songbird-staging"
+  },
+  "keywords": [
+    "cardinal",
+    "commerce",
+    "songbird"
+  ],
+  "author": {
+    "name": "Michael Brinsden"
+  },
+  "readme": "",
+  "readmeFilename": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/mikeybrin/cardinal-commerce-songbird-staging/issues"
+  },
+  "homepage": "https://github.com/mikeybrin/cardinal-commerce-songbird-staging",
+  "_id": "cardinal-commerce-songbird-staging@1.0.2",
+  "scripts": {},
+  "_shasum": "8180d437d291e057cc8e27171e228a69f4e933c0",
+  "_from": "cardinal-commerce-songbird-staging"
+}
